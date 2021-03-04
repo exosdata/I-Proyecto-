@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package Clases;
-
-/**
- *
- * @author CVillatoro
- */
 public class IProyecto {
 
     /**
